@@ -1,4 +1,4 @@
-### Hi there i'm Vanessa Lobo a Third year Toronto Met U student👋
+### Hi there I'm Vanessa Lobo a Third year Toronto Met U student👋
 
 - 🌸 I’m currently working on a login simulator
 - ✨ I’m currently learning Operating Systems and Algorithms
