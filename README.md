@@ -4,4 +4,4 @@
 - ✨ I’m currently learning Operating Systems and Algorithms
 - 💌 How to reach me: discord Xenoastra#0600 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xenoastra&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,php" alt="xenoastra" />
+https://stars.ncp.nathanferns.xyz/xenoastra/image?allow_forks=true&bgcolor=adebed&textcolor=4b989c&titlecolor=3e9194&excluded_languages=CSS,PHP
