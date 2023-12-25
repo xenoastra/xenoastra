@@ -1,6 +1,6 @@
-### Hi there I'm Vanessa Lobo a Fourth year Toronto Met U student👋
+### Hi there I'm Vanessa Lobo, a Fourth year Toronto Met U student👋
 
-- 🌸 I’m currently working on an advanced calculator
+- 🌸 I’m currently working on a Process Scheduler
 - ✨ I’m currently learning Machine Learning, Web retreival and Computer Security
 - 💌 How to reach me: discord Xenoastra#0600 
 
